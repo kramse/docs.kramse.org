@@ -3,7 +3,7 @@ title: Welcome to Kubernetes
 permalink: /kubernetes-welcome
 ---
 
-### Welcome to Kubernetes (K8s)!
+### Welcome to Kubernetes (K8s)! 🌿
 
 I have decided to look into Kubernetes, and this happened a few years back. The whole world seemed to be talking about cloud and something named Kubernetes popped up.
 
