@@ -7,7 +7,12 @@ permalink: /
 
 # Welcome! 🌱
 
+This is the digital garden of Kramse.
 
+My real name is Henrik Kramselund and I live in Denmark.
+
+Subjects and articles:
+* [[Welcome to Kubernetes]]
 
 
 <strong>Recently updated notes</strong>
@@ -20,15 +25,6 @@ permalink: /
     </li>
   {% endfor %}
 </ul>
-
-## How was this made
-The concept of digital garden has existed for some time, and it resonates with me.
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-There are some instructions below which I keep for my own use, pls ignore.
-
-* The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
 
 <style>
