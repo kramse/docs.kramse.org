@@ -19,7 +19,7 @@ Various links to the concept of Digital Garden
 * [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 * Mark Bernstein's 1998 essay [Hypertext Gardens](http://www.eastgate.com/garden/Enter.html)
 * Digital Gardens by Matthias @CSSence on the site [https://cssence.com/](https://cssence.com/2024/digital-gardens/)
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+* This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
 There are some instructions below which I keep for my own use, pls ignore.
 
