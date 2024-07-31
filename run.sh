@@ -10,4 +10,4 @@ bundle exec jekyll build --watch &
 #bundle exec jekyll build
 
 # Moved to seperate script
-# scp -r _site/* cheese01:/home/hlk/docs.kramse.org
+# scp -r _site/* cheese01:/home/hlk/garden.kramse.org
