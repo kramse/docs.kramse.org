@@ -35,7 +35,7 @@ kubectl label nodes --all node.kubernetes.io/exclude-from-external-load-balancer
 kubectl label nodes --all bgp=router
 ```
 
-Note: The process includes a few taints and labels, to allow me to run a cluster with only two nodes. I dont want to have a dedicated control plane node. I don't remember the exclude label, but the bgp=router is important for Cilium BGP to start running on at least some nodes.
+Note: The process includes a few taints and labels, to allow me to run a cluster with only two nodes. I dont want to have a dedicated control plane node. The bgp=router is important for Cilium BGP to start running on at least some nodes.
 
 After installing the first thing I do is install Cilium with this script, I call it install-cilium.sh, and it starts by uninstalling Cilium, as I have done soo many runs with changing options etc. YMMV and this was tested and works, for me.
 
