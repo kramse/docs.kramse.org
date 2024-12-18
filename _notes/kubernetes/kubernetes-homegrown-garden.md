@@ -9,4 +9,4 @@ category: kubernetes
 
 This digital garden is built using [`Kubernetes.io`](https://kubernetes.io/) and Jekyll
 
-You can read more about the server on the page [[kubernetes-welcome]] and this page is about the deployment of the web service using Nginx
+You can read more about the server on the page [[Welcome to Kubernetes 🌱]] and this page is about the deployment of the web service using Nginx
