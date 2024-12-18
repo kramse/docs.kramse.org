@@ -12,8 +12,12 @@ This is the digital garden of Kramse. You can call it a blog, but it does not fo
 My real name is Henrik Kramselund and I live in a town close to water called Hundested in Denmark.
 
 My subjects and articles:
-* [[Welcome to Kubernetes]]
-* [[Homegrown Digital Garden using Kubernetes]]
+* [[Welcome to Kubernetes 🌱]]
+* [[Homegrown Digital Garden using Kubernetes 🌱]]
+
+My article categories:
+* [Kubernetes](/kubernetes/kubernetes.html)
+
 
 Maybe you can find something interesting in Github og Codeberg where I put all my educational materials, most of my public projects etc.
 
@@ -30,7 +34,7 @@ The concept of digital garden has existed for some time, and it resonates with m
 * Digital Gardens by Matthias @CSSence on the site [https://cssence.com/](https://cssence.com/2024/digital-gardens/)
 * This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-I will try to remember to mark articles with the current level, as described in the post
+I will try to remember to mark articles with the current matureness level, as described in the post
 [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history):
 > ## 3. Imperfection & Learning in Public
 ...

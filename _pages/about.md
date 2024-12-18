@@ -11,9 +11,9 @@ This is my digital garden, kept by me, for me. I am Henrik Kramselund he/him a f
 If you feel like taking a walk through it, be my guest. There is not much to see yet.
 
 
-## Categories for content
+## Matureness for content
 
-Inspired by the categories from Maggie Appleton I have chosen to re-use this:
+Inspired by the ideas from Maggie Appleton I have chosen to re-use this:
 
 * 🌱 Seedlings for very rough and early ideas
 * 🌿 Budding for work I've cleaned up and clarified
