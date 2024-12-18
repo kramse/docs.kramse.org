@@ -1,6 +1,7 @@
 ---
-title: Kubernetes Networking on Premise
+title: Kubernetes Networking on Premise 🌱
 permalink: /kubernetes-networking
+category: kubernetes
 ---
 
 ### Kubernetes Networking -- for people that want to run their own clusters 🌱

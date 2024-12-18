@@ -1,7 +1,9 @@
 ---
-title: Homegrown Digital Garden using Kubernetes
+title: Homegrown Digital Garden using Kubernetes 🌱
 permalink: /kubernetes-homegrown-garden
+category: kubernetes
 ---
+
 
 ### Welcome to a Homegrown Kubernetes Garden(K8s)! 🌱
 

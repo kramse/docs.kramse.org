@@ -1,12 +1,12 @@
 title:               My digital garden garden.kramse.org
-include:             ['_pages']
+include:             ['_pages','_posts']
 exclude:             ['_includes/notes_graph.json']
 # You may need to change the base URL depending on your deploy configuration.
 baseurl:             ''
 
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
-use_html_extension:  true
+use_html_extension:  false
 
 # Set to `true` to open non-internal links in new tabs, or
 # set to `false` to open non-internal links in current tab.
@@ -31,6 +31,9 @@ collections:
   notes:
     output: true
     permalink: /:slug
+  kubernetes:
+    output: true
+    permalink: /:collection/:categories:output_ext
 
 defaults:
   - scope:

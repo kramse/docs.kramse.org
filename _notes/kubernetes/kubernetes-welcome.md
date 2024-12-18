@@ -1,6 +1,7 @@
 ---
-title: Welcome to Kubernetes
+title: Welcome to Kubernetes 🌱
 permalink: /kubernetes-welcome
+category: kubernetes
 ---
 
 ### Welcome to Kubernetes (K8s)! 🌿
