@@ -15,7 +15,7 @@ layout: page
       {% if post.categories contains page_category %}
       <li>
         <b>
-          <a href="{{ post.url | relative_url }}">
+          <a href="{{ post.url | relative_url }}{%- if site.use_html_extension -%}.html{%- endif -%}">
             {{ post.title | escape }}
           </a>
         </b> - <i>{{ post.date | date: date_format }}</i>
