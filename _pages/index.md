@@ -14,6 +14,7 @@ My real name is Henrik Kramselund and I live in a town close to water called Hun
 My subjects and articles:
 * [[Welcome to Kubernetes 🌱]]
 * [[Homegrown Digital Garden using Kubernetes 🌱]]
+* [[Welcome to the Library 🌱]]
 
 My article categories:
 * [Kubernetes](/kubernetes/kubernetes.html)
