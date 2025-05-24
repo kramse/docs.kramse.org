@@ -1,0 +1,21 @@
+---
+layout: default
+# This layout handles per-category listings
+---
+
+{% assign items = site.notes | where: "category", page.target %}
+<div class="category-blurb">{{ content }}</div>
+
+{% assign page_category = page.categories | first %}
+
+<H2> Notes in this category: {{ page_category }}</h2>
+
+<ul>
+  {% for post in site.notes %}
+    {% if post.categories contains page_category %}
+    <li>  <a class="internal-link" href="{{ post.url | relative_url }}{%- if site.use_html_extension -%}.html{%- endif -%}">
+        {{ post.title | escape }}
+      </a> - {{ post.description }}</li>
+    {% endif %}
+  </ul>
+  {% endfor %}

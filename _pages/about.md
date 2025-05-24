@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-*About this digital garden*
+# About this digital garden
 
 This is my digital garden, kept by me, for me. I am Henrik Kramselund he/him a freelance network and security internet samurai living in Denmark.
 

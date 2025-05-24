@@ -1,6 +1,9 @@
 ---
 title: Writing Documentation 🌱
-category: learning
+categories:
+  - learning
+  - library
+description: Writing good documentation and communicating is needed for almost everyone
 ---
 
 

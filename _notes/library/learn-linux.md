@@ -1,6 +1,9 @@
 ---
 title: Learn Linux and Unix 🌱
-category: learning
+categories:
+  - learning
+  - library
+description: Learning a bit of Linux and Unix will unlock a lot of potential
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 title: Gathering Notes 🌱
-category: learning
+categories:
+  - learning
+  - library
+description: Gathering notes is essential in many situations
 ---
 
 

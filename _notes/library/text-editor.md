@@ -1,6 +1,9 @@
 ---
 title: Select a text editor 🌱
-category: learning
+categories:
+  - learning
+  - library
+description: Writing and editing files is needed in many situations
 ---
 
 
