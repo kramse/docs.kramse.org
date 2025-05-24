@@ -20,12 +20,6 @@ My article categories:
 * [Kubernetes](/kubernetes/kubernetes.html)
 * [Learning Library](/library/learning.html)
 
-
-{% for category in site.collections %}
-{% capture category_name %}{{ category | first }}{% endcapture %}
-<li><a title="Show all pages and posts in category '{{ collection_name }}'." href="/{{category_name}}">{{category_name}}</a></li>
-{% endfor %}
-
 # My public Git repositories
 Maybe you can find something interesting in Github og Codeberg where I put all my educational materials, most of my public projects etc.
 
