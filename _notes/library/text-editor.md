@@ -6,9 +6,6 @@ categories:
 description: Writing and editing files is needed in many situations
 ---
 
-
-## Select a text editor 🌱
-
 So you want to do technical work and write something, programs, text or web applications.
 
 You will definitely need a tool like a text editor, but which one.

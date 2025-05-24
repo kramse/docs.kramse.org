@@ -7,9 +7,6 @@ categories:
 description: A page listing some of the pre-requisites you need to know when studying techincal things
 ---
 
-
-### Welcome to the Hidden Curriculum
-
 So you want to learn something, great. Unfortunately sometimes this is harder than it should be, and sometimes we can make it much easier.
 
 I am talking about the situations where learning a subject requires you to know some existing dependencies or skills, before you can absorb the new thing - which is the goal!

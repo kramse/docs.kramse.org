@@ -6,9 +6,6 @@ categories:
 description: Writing good documentation and communicating is needed for almost everyone
 ---
 
-
-## Writing Documentation 🌱
-
 So you want to learn something, then make notes! There are many benefits from writing things down and usually people will remember better what they learn. Other times you will need to persuade someone to do something, or you have created something - a program or system that others will need to interact with.
 
 So documentation is needed, but how?!

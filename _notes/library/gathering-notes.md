@@ -6,9 +6,6 @@ categories:
 description: Gathering notes is essential in many situations
 ---
 
-
-## Gathering Notes 🌱
-
 **Make a note of that!**
 
 Most of us have limited capacity and I have found that I need to write things down, and I use multiple methods.

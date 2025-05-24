@@ -6,9 +6,6 @@ categories:
 description: Git is a free and open source distributed version control system
 ---
 
-
-## Learning Git 🌿
-
 Why learning Git is important.
 
 It is important because you will write, create and produce files with all sorts of important data. This may be a thesis, report or article, it may include results, calculations, programs, web pages, diagrams and pictures -- really everything is files.
