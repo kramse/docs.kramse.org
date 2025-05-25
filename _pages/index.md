@@ -8,7 +8,6 @@ permalink: /
 # Welcome! 🌱
 
 This is the digital garden of Kramse. You can call it a blog, but it does not follow the usual reverse time line article posting. It is more chaotic, but there are some navigation available to find your way. Have fun :-D
-
 My real name is Henrik Kramselund and I live in a town close to water called Hundested in Denmark.
 
 My subjects and articles:
