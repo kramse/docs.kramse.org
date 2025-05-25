@@ -39,7 +39,7 @@ but if you have a hosted K8s somewhere it may make more sense to just use what t
 I use two Linux virtual machines for my K8s nodes, very small, and another virtual machine as NFS server.
 
 A small script `install-nfs.sh `
-<pre>
+```
 #! /bin/sh
 helm repo add nfs-subdir-external-provisioner https://kubernetes-sigs.github.io/nfs-subdir-external-provisioner/
 kubectl create ns nfs-provisioner
@@ -49,10 +49,10 @@ export NFS_EXPORT_PATH=/userdata/
 helm -n  nfs-provisioner install nfs-provisioner-01 nfs-subdir-external-provisioner/nfs-subdir-external-provisioner \
   --set nfs.server=$NFS_SERVER 	--set nfs.path=$NFS_EXPORT_PATH 	--set storageClass.defaultClass=true \
 	--set replicaCount=1 	--set storageClass.name=nfs-01    --set storageClass.provisionerName=nfs-provisioner-01
-</pre>
+```
 
 Afterwards the nfs-provisioner has been deployed, and is available
-<pre>
+```
 hlk@cheese01:~/bin$ kubectl get pods -n nfs-provisioner
 NAME                                                              READY   STATUS    RESTARTS        AGE
 nfs-provisioner-01-nfs-subdir-external-provisioner-8d577bdt5ddm   1/1     Running   13 (144d ago)   216d
@@ -120,7 +120,7 @@ Node-Selectors:              <none>
 Tolerations:                 node.kubernetes.io/not-ready:NoExecute op=Exists for 300s
                              node.kubernetes.io/unreachable:NoExecute op=Exists for 300s
 Events:                      <none>
-</pre>
+```
 
 ## My gateway and deployment
 

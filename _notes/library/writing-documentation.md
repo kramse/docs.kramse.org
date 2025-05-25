@@ -34,20 +34,20 @@ Some example text, formatted:
 **this is bold**, and ~~strike through~~ with *italic* on the side
 
 The same, as MarkDown, copy pasted the above line:
-<pre>
+```
   #### H4 small header, rest of this note is H3
 
   **this is bold**, and ~~strike through~~ with *italic* on the side
-</pre>
+```
 
 There are afterwards multiple options for converting this MarkDown into PDF or HTML. My editor has a package for doing MarkDown to PDF, but [pandoc](https://pandoc.org/) is a recommended generic tool.
 
 I have a small script called `markdown2pdf`:
-<pre>
+```
   #! /bin/sh
   DOCUMENT=$1
   pandoc $DOCUMENT.md -o $DOCUMENT.pdf --pdf-engine=xelatex --template=eisvogel-hlk.latex
-</pre>
+```
 
 It uses this template: [https://github.com/enhuiz/eisvogel](https://github.com/enhuiz/eisvogel) and LaTeX for producing the PDF.
 
