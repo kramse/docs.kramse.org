@@ -37,4 +37,9 @@ On top of the K8s installation I currently run basic Nginx as a web server.
 
 I other notes I will detail parts of the installation, documenting it for myself, but you may be inspired to try something similar.
 
+* [[Kubernetes Networking on Premise 🌿]]
+* [[Homegrown Digital Garden using Kubernetes 🌱]]
+* [[Upgrading Kubernetes 🌱]]
+
+
 |[<img width=100px alt="Debian Linux logo" src="{{ site.baseurl }}/assets/debian-logo.png"/>](https://www.debian.org/) |[<img width=100px alt="Cilium logo" src="{{ site.baseurl }}/assets/kubeadm-stacked-color.png"/>](https://kubernetes.io/docs/reference/setup-tools/kubeadm/) |[<img width=400px alt="Cilium logo" src="{{ site.baseurl }}/assets/cillium-logo.svg"/>](https://cilium.io/) | [<img width=100px alt="Cert Manager logo" src="{{ site.baseurl }}/assets/cert-manager-logo.svg"/>](https://cert-manager.io/) |  [<img width=100px alt="Helm Package Manager logo" src="{{ site.baseurl }}/assets/helm.svg"/>](https://helm.sh/) |
