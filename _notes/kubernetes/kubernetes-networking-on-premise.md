@@ -1,10 +1,10 @@
 ---
-title: Kubernetes Networking on Premise 🌱
+title: Kubernetes Networking on Premise 🌿
 permalink: /kubernetes-networking
 category: kubernetes
 ---
 
-### Kubernetes Networking -- for people that want to run their own clusters 🌱
+### Kubernetes Networking -- for people that want to run their own clusters 🌿
 
 So this page is about the setup of this Kubernetes (K8s) cluster, specifically the networking parts. I also describe the on-premise setup I use in my own rack and network in AS57860, where I have my own prefixes for both IPv4 and IPv6. If you want to create a lab, then look into RFC1918 addresses. Please don't copy my public IPs and use them in your configurations!
 
@@ -89,4 +89,4 @@ I recommend that you look up the documentation for Cilium options, according to 
 
 
 
-You can read more about the server on the page [[Welcome to Kubernetes 🌱]] and this page is about the deployment of the web service using Nginx [[Homegrown Digital Garden using Kubernetes 🌱]]
+You can read more about the server on the page [[kubernetes-welcome]] and this page is about the deployment of the web service using Nginx
