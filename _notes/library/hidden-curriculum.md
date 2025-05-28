@@ -1,11 +1,11 @@
 ---
 title: Hidden Curriculum 🌱
 permalink: /hidden-curriculum
-category: learning
+categories:
+  - learning
+  - library
+description: A page listing some of the pre-requisites you need to know when studying techincal things
 ---
-
-
-### Welcome to the Hidden Curriculum
 
 So you want to learn something, great. Unfortunately sometimes this is harder than it should be, and sometimes we can make it much easier.
 

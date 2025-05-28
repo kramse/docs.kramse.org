@@ -34,6 +34,9 @@ collections:
   kubernetes:
     output: true
     permalink: /:collection/:categories:output_ext
+  learning:
+    output: true
+    permalink: /:collection/:categories:output_ext
 
 defaults:
   - scope:

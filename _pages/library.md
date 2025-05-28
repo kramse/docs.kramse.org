@@ -1,11 +1,12 @@
 ---
 title: Welcome to the Library 🌱
 permalink: /library
-category: learning
+layout: category
+categories:
+  - library
 ---
 
-
-### Welcome to the Library  🌱
+# Welcome to the Library  🌱
 
 I love books, and this part is thought to be about books and learning. Learning can happen in many circumstances, and I will present what works for me.
 
