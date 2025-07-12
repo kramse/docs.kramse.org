@@ -17,7 +17,7 @@ My subjects and articles:
 
 My article categories:
 * [Kubernetes](/kubernetes/kubernetes.html)
-* [Learning Library](/library/learning.html)
+* [Learning Library](/library.html)
 
 # My public Git repositories
 Maybe you can find something interesting in Github og Codeberg where I put all my educational materials, most of my public projects etc.

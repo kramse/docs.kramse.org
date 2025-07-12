@@ -15,7 +15,7 @@ The process was for each upgrade
 1. Update repositories
 2. Upgrade `kubeadm` from say 1.32 which you are running to 1.33 which is the version you want
 3. Run `kubeadm upgrade plan` to check a few tings
-4. perform upgrade on controler to the version you want, like `kubeadm upgrade apply v1.33.1`
+4. Perform upgrade on controller to the version you want, like `kubeadm upgrade apply v1.33.1`
 5. Upgrade software, CRI-O container, kubectl and kubelet etc. just regular apt update/upgrade
 6. Do a reboot, controlled, chaotic, whatever :-D
 
